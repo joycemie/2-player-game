@@ -7,7 +7,7 @@ Test your solution using the noargs front end.
 
 #part 2:
 Write a more complete version of the game that reads a word entered by the player, and accepts multiple guesses one letter at a time. This continues until either the player guesses all the letters in the original word or until they have made six guesses where the letter guessed is not in the word. You are not required to keep track of which letters have been guessed. After each guess, the state of the game as described in part (a) should appear on its own line. If the player guesses all the letters, then print an uppercase W, followed by a newline character. If the player runs out of guesses, then print an uppercase L, followed by a newline character.
-Here are two sample interactions of the game. For clarity, the user input appears in italics and output appears in bold.
+Here are two sample interactions of the game. For clarity, the user input appears in italics and output appears in bold. \\
 <img width="320" alt="image" src="https://github.com/joycemie/2-player-game/assets/134363926/f40d01fd-7cd1-4c9f-86e1-36ddfff669dd">
 
 Write a more complete version of the game that reads a word entered by the player, and accepts multiple guesses one letter at a time. This continues until either the player guesses all the letters in the original word or until they have made six guesses where the letter guessed is not in the word. You are not required to keep track of which letters have been guessed. After each guess, the state of the game as described in part (a) should appear on its own line. If the player guesses all the letters, then print an uppercase W, followed by a newline character. If the player runs out of guesses, then print an uppercase L, followed by a newline character.
