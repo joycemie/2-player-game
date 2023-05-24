@@ -1,4 +1,3 @@
-;; Joyce Chen - 20878217
 ;; Print the state of the game after one guess, where if the guessed letter appears
 ;; in the word then it is printed in its correct spots, otherwise a underscore is printed
 ;; in the place of the letter in the word, after a newline character.
